@@ -1,0 +1,385 @@
+"","Year","Entidad","Tipo.de.delito","SumaAnual"
+"1",2015,"Aguascalientes","Violencia familiar",544
+"2",2015,"Aguascalientes","Otros delitos contra la familia",544
+"3",2015,"Baja California","Violencia familiar",9000
+"4",2015,"Baja California","Otros delitos contra la familia",9000
+"5",2015,"Baja California Sur","Violencia familiar",1745
+"6",2015,"Baja California Sur","Otros delitos contra la familia",1745
+"7",2015,"Campeche","Violencia familiar",19
+"8",2015,"Campeche","Otros delitos contra la familia",19
+"9",2015,"Chiapas","Violencia familiar",1253
+"10",2015,"Chiapas","Otros delitos contra la familia",1253
+"11",2015,"Chihuahua","Violencia familiar",12277
+"12",2015,"Chihuahua","Otros delitos contra la familia",12277
+"13",2015,"Ciudad de México","Violencia familiar",17093
+"14",2015,"Ciudad de México","Otros delitos contra la familia",17093
+"15",2015,"Coahuila de Zaragoza","Violencia familiar",2419
+"16",2015,"Coahuila de Zaragoza","Otros delitos contra la familia",2419
+"17",2015,"Colima","Violencia familiar",549
+"18",2015,"Colima","Otros delitos contra la familia",549
+"19",2015,"Durango","Violencia familiar",3662
+"20",2015,"Durango","Otros delitos contra la familia",3662
+"21",2015,"Guanajuato","Violencia familiar",10298
+"22",2015,"Guanajuato","Otros delitos contra la familia",10298
+"23",2015,"Guerrero","Violencia familiar",2098
+"24",2015,"Guerrero","Otros delitos contra la familia",2098
+"25",2015,"Hidalgo","Violencia familiar",2294
+"26",2015,"Hidalgo","Otros delitos contra la familia",2294
+"27",2015,"Jalisco","Violencia familiar",9862
+"28",2015,"Jalisco","Otros delitos contra la familia",9862
+"29",2015,"México","Violencia familiar",4765
+"30",2015,"México","Otros delitos contra la familia",4765
+"31",2015,"Michoacán de Ocampo","Violencia familiar",1018
+"32",2015,"Michoacán de Ocampo","Otros delitos contra la familia",1018
+"33",2015,"Morelos","Violencia familiar",4312
+"34",2015,"Morelos","Otros delitos contra la familia",4312
+"35",2015,"Nayarit","Violencia familiar",306
+"36",2015,"Nayarit","Otros delitos contra la familia",306
+"37",2015,"Nuevo León","Violencia familiar",20407
+"38",2015,"Nuevo León","Otros delitos contra la familia",20407
+"39",2015,"Oaxaca","Violencia familiar",638
+"40",2015,"Oaxaca","Otros delitos contra la familia",638
+"41",2015,"Puebla","Violencia familiar",5038
+"42",2015,"Puebla","Otros delitos contra la familia",5038
+"43",2015,"Querétaro","Violencia familiar",1008
+"44",2015,"Querétaro","Otros delitos contra la familia",1008
+"45",2015,"Quintana Roo","Violencia familiar",3089
+"46",2015,"Quintana Roo","Otros delitos contra la familia",3089
+"47",2015,"San Luis Potosí","Violencia familiar",2947
+"48",2015,"San Luis Potosí","Otros delitos contra la familia",2947
+"49",2015,"Sinaloa","Violencia familiar",2439
+"50",2015,"Sinaloa","Otros delitos contra la familia",2439
+"51",2015,"Sonora","Violencia familiar",2247
+"52",2015,"Sonora","Otros delitos contra la familia",2247
+"53",2015,"Tabasco","Violencia familiar",4238
+"54",2015,"Tabasco","Otros delitos contra la familia",4238
+"55",2015,"Tamaulipas","Violencia familiar",2810
+"56",2015,"Tamaulipas","Otros delitos contra la familia",2810
+"57",2015,"Tlaxcala","Violencia familiar",46
+"58",2015,"Tlaxcala","Otros delitos contra la familia",46
+"59",2015,"Veracruz de Ignacio de la Llave","Violencia familiar",4177
+"60",2015,"Veracruz de Ignacio de la Llave","Otros delitos contra la familia",4177
+"61",2015,"Yucatán","Violencia familiar",2583
+"62",2015,"Yucatán","Otros delitos contra la familia",2583
+"63",2015,"Zacatecas","Violencia familiar",804
+"64",2015,"Zacatecas","Otros delitos contra la familia",804
+"65",2016,"Aguascalientes","Violencia familiar",726
+"66",2016,"Aguascalientes","Otros delitos contra la familia",726
+"67",2016,"Baja California","Violencia familiar",8671
+"68",2016,"Baja California","Otros delitos contra la familia",8671
+"69",2016,"Baja California Sur","Violencia familiar",2287
+"70",2016,"Baja California Sur","Otros delitos contra la familia",2287
+"71",2016,"Campeche","Violencia familiar",50
+"72",2016,"Campeche","Otros delitos contra la familia",50
+"73",2016,"Chiapas","Violencia familiar",1966
+"74",2016,"Chiapas","Otros delitos contra la familia",1966
+"75",2016,"Chihuahua","Violencia familiar",11962
+"76",2016,"Chihuahua","Otros delitos contra la familia",11962
+"77",2016,"Ciudad de México","Violencia familiar",19313
+"78",2016,"Ciudad de México","Otros delitos contra la familia",19313
+"79",2016,"Coahuila de Zaragoza","Violencia familiar",7226
+"80",2016,"Coahuila de Zaragoza","Otros delitos contra la familia",7226
+"81",2016,"Colima","Violencia familiar",203
+"82",2016,"Colima","Otros delitos contra la familia",203
+"83",2016,"Durango","Violencia familiar",5509
+"84",2016,"Durango","Otros delitos contra la familia",5509
+"85",2016,"Guanajuato","Violencia familiar",11133
+"86",2016,"Guanajuato","Otros delitos contra la familia",11133
+"87",2016,"Guerrero","Violencia familiar",2298
+"88",2016,"Guerrero","Otros delitos contra la familia",2298
+"89",2016,"Hidalgo","Violencia familiar",3079
+"90",2016,"Hidalgo","Otros delitos contra la familia",3079
+"91",2016,"Jalisco","Violencia familiar",13409
+"92",2016,"Jalisco","Otros delitos contra la familia",13409
+"93",2016,"México","Violencia familiar",5490
+"94",2016,"México","Otros delitos contra la familia",5490
+"95",2016,"Michoacán de Ocampo","Violencia familiar",847
+"96",2016,"Michoacán de Ocampo","Otros delitos contra la familia",847
+"97",2016,"Morelos","Violencia familiar",4857
+"98",2016,"Morelos","Otros delitos contra la familia",4857
+"99",2016,"Nayarit","Violencia familiar",493
+"100",2016,"Nayarit","Otros delitos contra la familia",493
+"101",2016,"Nuevo León","Violencia familiar",21417
+"102",2016,"Nuevo León","Otros delitos contra la familia",21417
+"103",2016,"Oaxaca","Violencia familiar",3497
+"104",2016,"Oaxaca","Otros delitos contra la familia",3497
+"105",2016,"Puebla","Violencia familiar",5619
+"106",2016,"Puebla","Otros delitos contra la familia",5619
+"107",2016,"Querétaro","Violencia familiar",1077
+"108",2016,"Querétaro","Otros delitos contra la familia",1077
+"109",2016,"Quintana Roo","Violencia familiar",1533
+"110",2016,"Quintana Roo","Otros delitos contra la familia",1533
+"111",2016,"San Luis Potosí","Violencia familiar",3935
+"112",2016,"San Luis Potosí","Otros delitos contra la familia",3935
+"113",2016,"Sinaloa","Violencia familiar",2401
+"114",2016,"Sinaloa","Otros delitos contra la familia",2401
+"115",2016,"Sonora","Violencia familiar",3608
+"116",2016,"Sonora","Otros delitos contra la familia",3608
+"117",2016,"Tabasco","Violencia familiar",5407
+"118",2016,"Tabasco","Otros delitos contra la familia",5407
+"119",2016,"Tamaulipas","Violencia familiar",7212
+"120",2016,"Tamaulipas","Otros delitos contra la familia",7212
+"121",2016,"Tlaxcala","Violencia familiar",13
+"122",2016,"Tlaxcala","Otros delitos contra la familia",13
+"123",2016,"Veracruz de Ignacio de la Llave","Violencia familiar",5492
+"124",2016,"Veracruz de Ignacio de la Llave","Otros delitos contra la familia",5492
+"125",2016,"Yucatán","Violencia familiar",2781
+"126",2016,"Yucatán","Otros delitos contra la familia",2781
+"127",2016,"Zacatecas","Violencia familiar",1135
+"128",2016,"Zacatecas","Otros delitos contra la familia",1135
+"129",2017,"Aguascalientes","Violencia familiar",1136
+"130",2017,"Aguascalientes","Otros delitos contra la familia",1136
+"131",2017,"Baja California","Violencia familiar",8921
+"132",2017,"Baja California","Otros delitos contra la familia",8921
+"133",2017,"Baja California Sur","Violencia familiar",2248
+"134",2017,"Baja California Sur","Otros delitos contra la familia",2248
+"135",2017,"Campeche","Violencia familiar",65
+"136",2017,"Campeche","Otros delitos contra la familia",65
+"137",2017,"Chiapas","Violencia familiar",3514
+"138",2017,"Chiapas","Otros delitos contra la familia",3514
+"139",2017,"Chihuahua","Violencia familiar",11583
+"140",2017,"Chihuahua","Otros delitos contra la familia",11583
+"141",2017,"Ciudad de México","Violencia familiar",19246
+"142",2017,"Ciudad de México","Otros delitos contra la familia",19246
+"143",2017,"Coahuila de Zaragoza","Violencia familiar",9311
+"144",2017,"Coahuila de Zaragoza","Otros delitos contra la familia",9311
+"145",2017,"Colima","Violencia familiar",2395
+"146",2017,"Colima","Otros delitos contra la familia",2395
+"147",2017,"Durango","Violencia familiar",5482
+"148",2017,"Durango","Otros delitos contra la familia",5482
+"149",2017,"Guanajuato","Violencia familiar",11253
+"150",2017,"Guanajuato","Otros delitos contra la familia",11253
+"151",2017,"Guerrero","Violencia familiar",2809
+"152",2017,"Guerrero","Otros delitos contra la familia",2809
+"153",2017,"Hidalgo","Violencia familiar",4418
+"154",2017,"Hidalgo","Otros delitos contra la familia",4418
+"155",2017,"Jalisco","Violencia familiar",11131
+"156",2017,"Jalisco","Otros delitos contra la familia",11131
+"157",2017,"México","Violencia familiar",6867
+"158",2017,"México","Otros delitos contra la familia",6867
+"159",2017,"Michoacán de Ocampo","Violencia familiar",1158
+"160",2017,"Michoacán de Ocampo","Otros delitos contra la familia",1158
+"161",2017,"Morelos","Violencia familiar",5375
+"162",2017,"Morelos","Otros delitos contra la familia",5375
+"163",2017,"Nayarit","Violencia familiar",440
+"164",2017,"Nayarit","Otros delitos contra la familia",440
+"165",2017,"Nuevo León","Violencia familiar",21215
+"166",2017,"Nuevo León","Otros delitos contra la familia",21215
+"167",2017,"Oaxaca","Violencia familiar",4340
+"168",2017,"Oaxaca","Otros delitos contra la familia",4340
+"169",2017,"Puebla","Violencia familiar",6335
+"170",2017,"Puebla","Otros delitos contra la familia",6335
+"171",2017,"Querétaro","Violencia familiar",1350
+"172",2017,"Querétaro","Otros delitos contra la familia",1350
+"173",2017,"Quintana Roo","Violencia familiar",2665
+"174",2017,"Quintana Roo","Otros delitos contra la familia",2665
+"175",2017,"San Luis Potosí","Violencia familiar",5724
+"176",2017,"San Luis Potosí","Otros delitos contra la familia",5724
+"177",2017,"Sinaloa","Violencia familiar",2638
+"178",2017,"Sinaloa","Otros delitos contra la familia",2638
+"179",2017,"Sonora","Violencia familiar",2432
+"180",2017,"Sonora","Otros delitos contra la familia",2432
+"181",2017,"Tabasco","Violencia familiar",6615
+"182",2017,"Tabasco","Otros delitos contra la familia",6615
+"183",2017,"Tamaulipas","Violencia familiar",7811
+"184",2017,"Tamaulipas","Otros delitos contra la familia",7811
+"185",2017,"Tlaxcala","Violencia familiar",33
+"186",2017,"Tlaxcala","Otros delitos contra la familia",33
+"187",2017,"Veracruz de Ignacio de la Llave","Violencia familiar",7501
+"188",2017,"Veracruz de Ignacio de la Llave","Otros delitos contra la familia",7501
+"189",2017,"Yucatán","Violencia familiar",3255
+"190",2017,"Yucatán","Otros delitos contra la familia",3255
+"191",2017,"Zacatecas","Violencia familiar",1682
+"192",2017,"Zacatecas","Otros delitos contra la familia",1682
+"193",2018,"Aguascalientes","Violencia familiar",1610
+"194",2018,"Aguascalientes","Otros delitos contra la familia",1610
+"195",2018,"Baja California","Violencia familiar",10320
+"196",2018,"Baja California","Otros delitos contra la familia",10320
+"197",2018,"Baja California Sur","Violencia familiar",2370
+"198",2018,"Baja California Sur","Otros delitos contra la familia",2370
+"199",2018,"Campeche","Violencia familiar",52
+"200",2018,"Campeche","Otros delitos contra la familia",52
+"201",2018,"Chiapas","Violencia familiar",6038
+"202",2018,"Chiapas","Otros delitos contra la familia",6038
+"203",2018,"Chihuahua","Violencia familiar",11228
+"204",2018,"Chihuahua","Otros delitos contra la familia",11228
+"205",2018,"Ciudad de México","Violencia familiar",19947
+"206",2018,"Ciudad de México","Otros delitos contra la familia",19947
+"207",2018,"Coahuila de Zaragoza","Violencia familiar",10025
+"208",2018,"Coahuila de Zaragoza","Otros delitos contra la familia",10025
+"209",2018,"Colima","Violencia familiar",2453
+"210",2018,"Colima","Otros delitos contra la familia",2453
+"211",2018,"Durango","Violencia familiar",5818
+"212",2018,"Durango","Otros delitos contra la familia",5818
+"213",2018,"Guanajuato","Violencia familiar",10356
+"214",2018,"Guanajuato","Otros delitos contra la familia",10356
+"215",2018,"Guerrero","Violencia familiar",2967
+"216",2018,"Guerrero","Otros delitos contra la familia",2967
+"217",2018,"Hidalgo","Violencia familiar",5086
+"218",2018,"Hidalgo","Otros delitos contra la familia",5086
+"219",2018,"Jalisco","Violencia familiar",10292
+"220",2018,"Jalisco","Otros delitos contra la familia",10292
+"221",2018,"México","Violencia familiar",6507
+"222",2018,"México","Otros delitos contra la familia",6507
+"223",2018,"Michoacán de Ocampo","Violencia familiar",1273
+"224",2018,"Michoacán de Ocampo","Otros delitos contra la familia",1273
+"225",2018,"Morelos","Violencia familiar",5293
+"226",2018,"Morelos","Otros delitos contra la familia",5293
+"227",2018,"Nayarit","Violencia familiar",419
+"228",2018,"Nayarit","Otros delitos contra la familia",419
+"229",2018,"Nuevo León","Violencia familiar",20858
+"230",2018,"Nuevo León","Otros delitos contra la familia",20858
+"231",2018,"Oaxaca","Violencia familiar",5898
+"232",2018,"Oaxaca","Otros delitos contra la familia",5898
+"233",2018,"Puebla","Violencia familiar",7303
+"234",2018,"Puebla","Otros delitos contra la familia",7303
+"235",2018,"Querétaro","Violencia familiar",2076
+"236",2018,"Querétaro","Otros delitos contra la familia",2076
+"237",2018,"Quintana Roo","Violencia familiar",4055
+"238",2018,"Quintana Roo","Otros delitos contra la familia",4055
+"239",2018,"San Luis Potosí","Violencia familiar",6052
+"240",2018,"San Luis Potosí","Otros delitos contra la familia",6052
+"241",2018,"Sinaloa","Violencia familiar",3834
+"242",2018,"Sinaloa","Otros delitos contra la familia",3834
+"243",2018,"Sonora","Violencia familiar",2202
+"244",2018,"Sonora","Otros delitos contra la familia",2202
+"245",2018,"Tabasco","Violencia familiar",6469
+"246",2018,"Tabasco","Otros delitos contra la familia",6469
+"247",2018,"Tamaulipas","Violencia familiar",7838
+"248",2018,"Tamaulipas","Otros delitos contra la familia",7838
+"249",2018,"Tlaxcala","Violencia familiar",149
+"250",2018,"Tlaxcala","Otros delitos contra la familia",149
+"251",2018,"Veracruz de Ignacio de la Llave","Violencia familiar",7327
+"252",2018,"Veracruz de Ignacio de la Llave","Otros delitos contra la familia",7327
+"253",2018,"Yucatán","Violencia familiar",2082
+"254",2018,"Yucatán","Otros delitos contra la familia",2082
+"255",2018,"Zacatecas","Violencia familiar",2229
+"256",2018,"Zacatecas","Otros delitos contra la familia",2229
+"257",2019,"Aguascalientes","Violencia familiar",2152
+"258",2019,"Aguascalientes","Otros delitos contra la familia",2152
+"259",2019,"Baja California","Violencia familiar",10916
+"260",2019,"Baja California","Otros delitos contra la familia",10916
+"261",2019,"Baja California Sur","Violencia familiar",2912
+"262",2019,"Baja California Sur","Otros delitos contra la familia",2912
+"263",2019,"Campeche","Violencia familiar",62
+"264",2019,"Campeche","Otros delitos contra la familia",62
+"265",2019,"Chiapas","Violencia familiar",5117
+"266",2019,"Chiapas","Otros delitos contra la familia",5117
+"267",2019,"Chihuahua","Violencia familiar",10978
+"268",2019,"Chihuahua","Otros delitos contra la familia",10978
+"269",2019,"Ciudad de México","Violencia familiar",25787
+"270",2019,"Ciudad de México","Otros delitos contra la familia",25787
+"271",2019,"Coahuila de Zaragoza","Violencia familiar",10931
+"272",2019,"Coahuila de Zaragoza","Otros delitos contra la familia",10931
+"273",2019,"Colima","Violencia familiar",3226
+"274",2019,"Colima","Otros delitos contra la familia",3226
+"275",2019,"Durango","Violencia familiar",6508
+"276",2019,"Durango","Otros delitos contra la familia",6508
+"277",2019,"Guanajuato","Violencia familiar",11147
+"278",2019,"Guanajuato","Otros delitos contra la familia",11147
+"279",2019,"Guerrero","Violencia familiar",3152
+"280",2019,"Guerrero","Otros delitos contra la familia",3152
+"281",2019,"Hidalgo","Violencia familiar",5630
+"282",2019,"Hidalgo","Otros delitos contra la familia",5630
+"283",2019,"Jalisco","Violencia familiar",12490
+"284",2019,"Jalisco","Otros delitos contra la familia",12490
+"285",2019,"México","Violencia familiar",9256
+"286",2019,"México","Otros delitos contra la familia",9256
+"287",2019,"Michoacán de Ocampo","Violencia familiar",911
+"288",2019,"Michoacán de Ocampo","Otros delitos contra la familia",911
+"289",2019,"Morelos","Violencia familiar",5475
+"290",2019,"Morelos","Otros delitos contra la familia",5475
+"291",2019,"Nayarit","Violencia familiar",777
+"292",2019,"Nayarit","Otros delitos contra la familia",777
+"293",2019,"Nuevo León","Violencia familiar",21255
+"294",2019,"Nuevo León","Otros delitos contra la familia",21255
+"295",2019,"Oaxaca","Violencia familiar",6668
+"296",2019,"Oaxaca","Otros delitos contra la familia",6668
+"297",2019,"Puebla","Violencia familiar",9606
+"298",2019,"Puebla","Otros delitos contra la familia",9606
+"299",2019,"Querétaro","Violencia familiar",3342
+"300",2019,"Querétaro","Otros delitos contra la familia",3342
+"301",2019,"Quintana Roo","Violencia familiar",5555
+"302",2019,"Quintana Roo","Otros delitos contra la familia",5555
+"303",2019,"San Luis Potosí","Violencia familiar",8236
+"304",2019,"San Luis Potosí","Otros delitos contra la familia",8236
+"305",2019,"Sinaloa","Violencia familiar",4502
+"306",2019,"Sinaloa","Otros delitos contra la familia",4502
+"307",2019,"Sonora","Violencia familiar",3605
+"308",2019,"Sonora","Otros delitos contra la familia",3605
+"309",2019,"Tabasco","Violencia familiar",7241
+"310",2019,"Tabasco","Otros delitos contra la familia",7241
+"311",2019,"Tamaulipas","Violencia familiar",8304
+"312",2019,"Tamaulipas","Otros delitos contra la familia",8304
+"313",2019,"Tlaxcala","Violencia familiar",18
+"314",2019,"Tlaxcala","Otros delitos contra la familia",18
+"315",2019,"Veracruz de Ignacio de la Llave","Violencia familiar",12103
+"316",2019,"Veracruz de Ignacio de la Llave","Otros delitos contra la familia",12103
+"317",2019,"Yucatán","Violencia familiar",1452
+"318",2019,"Yucatán","Otros delitos contra la familia",1452
+"319",2019,"Zacatecas","Violencia familiar",2900
+"320",2019,"Zacatecas","Otros delitos contra la familia",2900
+"321",2020,"Aguascalientes","Violencia familiar",2188
+"322",2020,"Aguascalientes","Otros delitos contra la familia",2188
+"323",2020,"Baja California","Violencia familiar",11307
+"324",2020,"Baja California","Otros delitos contra la familia",11307
+"325",2020,"Baja California Sur","Violencia familiar",2747
+"326",2020,"Baja California Sur","Otros delitos contra la familia",2747
+"327",2020,"Campeche","Violencia familiar",45
+"328",2020,"Campeche","Otros delitos contra la familia",45
+"329",2020,"Chiapas","Violencia familiar",4479
+"330",2020,"Chiapas","Otros delitos contra la familia",4479
+"331",2020,"Chihuahua","Violencia familiar",11311
+"332",2020,"Chihuahua","Otros delitos contra la familia",11311
+"333",2020,"Ciudad de México","Violencia familiar",27786
+"334",2020,"Ciudad de México","Otros delitos contra la familia",27786
+"335",2020,"Coahuila de Zaragoza","Violencia familiar",9475
+"336",2020,"Coahuila de Zaragoza","Otros delitos contra la familia",9475
+"337",2020,"Colima","Violencia familiar",4338
+"338",2020,"Colima","Otros delitos contra la familia",4338
+"339",2020,"Durango","Violencia familiar",5412
+"340",2020,"Durango","Otros delitos contra la familia",5412
+"341",2020,"Guanajuato","Violencia familiar",10059
+"342",2020,"Guanajuato","Otros delitos contra la familia",10059
+"343",2020,"Guerrero","Violencia familiar",3155
+"344",2020,"Guerrero","Otros delitos contra la familia",3155
+"345",2020,"Hidalgo","Violencia familiar",5729
+"346",2020,"Hidalgo","Otros delitos contra la familia",5729
+"347",2020,"Jalisco","Violencia familiar",12971
+"348",2020,"Jalisco","Otros delitos contra la familia",12971
+"349",2020,"México","Violencia familiar",16921
+"350",2020,"México","Otros delitos contra la familia",16921
+"351",2020,"Michoacán de Ocampo","Violencia familiar",1185
+"352",2020,"Michoacán de Ocampo","Otros delitos contra la familia",1185
+"353",2020,"Morelos","Violencia familiar",5308
+"354",2020,"Morelos","Otros delitos contra la familia",5308
+"355",2020,"Nayarit","Violencia familiar",875
+"356",2020,"Nayarit","Otros delitos contra la familia",875
+"357",2020,"Nuevo León","Violencia familiar",23334
+"358",2020,"Nuevo León","Otros delitos contra la familia",23334
+"359",2020,"Oaxaca","Violencia familiar",6700
+"360",2020,"Oaxaca","Otros delitos contra la familia",6700
+"361",2020,"Puebla","Violencia familiar",9877
+"362",2020,"Puebla","Otros delitos contra la familia",9877
+"363",2020,"Querétaro","Violencia familiar",3753
+"364",2020,"Querétaro","Otros delitos contra la familia",3753
+"365",2020,"Quintana Roo","Violencia familiar",5366
+"366",2020,"Quintana Roo","Otros delitos contra la familia",5366
+"367",2020,"San Luis Potosí","Violencia familiar",7783
+"368",2020,"San Luis Potosí","Otros delitos contra la familia",7783
+"369",2020,"Sinaloa","Violencia familiar",5232
+"370",2020,"Sinaloa","Otros delitos contra la familia",5232
+"371",2020,"Sonora","Violencia familiar",5576
+"372",2020,"Sonora","Otros delitos contra la familia",5576
+"373",2020,"Tabasco","Violencia familiar",6472
+"374",2020,"Tabasco","Otros delitos contra la familia",6472
+"375",2020,"Tamaulipas","Violencia familiar",7094
+"376",2020,"Tamaulipas","Otros delitos contra la familia",7094
+"377",2020,"Tlaxcala","Violencia familiar",22
+"378",2020,"Tlaxcala","Otros delitos contra la familia",22
+"379",2020,"Veracruz de Ignacio de la Llave","Violencia familiar",12171
+"380",2020,"Veracruz de Ignacio de la Llave","Otros delitos contra la familia",12171
+"381",2020,"Yucatán","Violencia familiar",762
+"382",2020,"Yucatán","Otros delitos contra la familia",762
+"383",2020,"Zacatecas","Violencia familiar",3435
+"384",2020,"Zacatecas","Otros delitos contra la familia",3435
